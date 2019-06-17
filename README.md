@@ -1,2 +1,2 @@
 # first_project
-testing
+testing.. try to understand git
